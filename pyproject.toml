@@ -1,9 +1,12 @@
 [tool.poetry]
-name = "rag-searcher"
+name = "recruit-connect"
 version = "0.1.0"
 description = ""
 authors = ["PH <phlin@example.com>"]
 readme = "README.md"
+packages = [
+    {include = "src"}
+]
 
 [tool.poetry.dependencies]
 python = "^3.11"
