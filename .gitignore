@@ -1,0 +1,12 @@
+*__pycache__*
+.venv
+.vscode
+alembic/versions
+data
+ftp
+mlflow
+mlruns
+.test_dummy
+.ruff_cache
+local_test*
+.pytest*

@@ -1,0 +1,1 @@
+A repository to test the matching system for recruiter and job position. Mainly using RAG. 
